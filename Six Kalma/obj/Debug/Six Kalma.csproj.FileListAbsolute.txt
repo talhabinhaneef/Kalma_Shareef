@@ -1,0 +1,32 @@
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six Kalma.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form1.resources
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form2.resources
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Properties.Resources.resources
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six Kalma.csproj.GenerateResource.cache
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six Kalma.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\bin\Debug\Six Kalma.exe.config
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\bin\Debug\Six Kalma.exe
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\bin\Debug\Six Kalma.pdb
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six Kalma.exe
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six Kalma.pdb
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form3.resources
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form4.resources
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form5.resources
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form6.resources
+C:\Users\Developer\source\repos\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form7.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\bin\Debug\Six Kalma.exe.config
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\bin\Debug\Six Kalma.exe
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\bin\Debug\Six Kalma.pdb
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six Kalma.csproj.AssemblyReference.cache
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form1.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form2.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form3.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form4.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form5.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form6.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Form7.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six_Kalma.Properties.Resources.resources
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six Kalma.csproj.GenerateResource.cache
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six Kalma.csproj.CoreCompileInputs.cache
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six Kalma.exe
+D:\BS.IT\5th Semester\VP Project\Six Kalma\Six Kalma\obj\Debug\Six Kalma.pdb
